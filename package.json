@@ -1,0 +1,21 @@
+{
+    "name": "sign-daily",
+    "version": "1.0.0",
+    "description": "接龙管家每日签到",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/huanfe1/sign-daily.git"
+    },
+    "author": "huanfe1",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/huanfe1/sign-daily/issues"
+    },
+    "homepage": "https://github.com/huanfe1/sign-daily#readme"
+}
