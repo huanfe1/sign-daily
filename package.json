@@ -17,5 +17,8 @@
     "bugs": {
         "url": "https://github.com/huanfe1/sign-daily/issues"
     },
-    "homepage": "https://github.com/huanfe1/sign-daily#readme"
+    "homepage": "https://github.com/huanfe1/sign-daily#readme",
+    "dependencies": {
+        "dotenv": "^16.4.5"
+    }
 }
